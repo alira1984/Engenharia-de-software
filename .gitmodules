@@ -1,0 +1,3 @@
+[submodule "servico_persistencia"]
+	path = servico_persistencia
+	url = https://github.com/alira1984/servico_persistencia
